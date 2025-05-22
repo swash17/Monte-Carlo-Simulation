@@ -8,6 +8,10 @@ Federal Highway Administration
 
 Appendix D (Monte Carlo/TTR Instructional Software Tool) of this document provides interactive examples for the software tool. Questions about the software should be referred to <a href="https://faculty.eng.ufl.edu/scott-washburn/">Dr. Scott Washburn</a>.
 
+## License
+
+This project is licensed under the MIT License - see the the <a href="https://github.com/swash17/Monte-Carlo-Simulation/blob/main/LICENSE">LICENSE.md file</a> for more details.
+
 ## Getting Started
 
 On the right side of this screen, select the <a href="https://github.com/swash17/Monte-Carlo-Simulation/releases">Releases</a> label. From the Releases page, download the latest release package to any folder on your computer. This package consists of the files 'setup.exe' and 'TTREducationInstall.msi'. If you have not previously installed the program on your computer, it is recommended to run the 'setup.exe'. The TTR Education program only runs on the Windows operating system and requires version 4.8, or higher, of the .NET Framework Runtime installed on your computer. By running the 'setup.exe' file, the installation process will first check if you have required version of the .NET Framework Runtime installed on your computer. If not, the installation process will give you a warning and provide the option to download and install it from Microsoft's website. If you have any problem starting the program after installation, first check that the required version of the .NET Framework is installed.  You can do this from the Programs and Features section of the Control Panel. If needed, you can download the latest version, for free, from <a href="https://dotnet.microsoft.com/en-us/download/dotnet-framework/net48">.NET Framework Runtime download link</a>. Once you have the necessary version of the .NET Framework installed on your computer, you can use just the .MSI file to run the installation for any subsequent installations of the program.
