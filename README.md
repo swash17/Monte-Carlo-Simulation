@@ -1,5 +1,5 @@
-# Monte-Carlo-Simulation
-This software tool is intended to help transportation engineers gain an understanding of the stochastic/probabilistic fundamentals involved in a travel time reliability analysis. It complements the manual on Fundamentals of Travel Time Reliability (citation below). The document is available at (add link to publication website). 
+# Travel Time Reliability InvestiGator
+The Travel Time Reliability InvestiGator software tool is intended to help transportation engineers gain an understanding of the stochastic/probabilistic fundamentals involved in a travel time reliability analysis. It complements the manual on Fundamentals of Travel Time Reliability (citation below). The document is available at (add link to publication website). 
 
 Fundamentals of Travel Time Reliability
 Publication No. FHWA-xx-yy, Month, Year
