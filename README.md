@@ -10,7 +10,7 @@ Appendix D (Monte Carlo/TTR Instructional Software Tool) of this document provid
 
 ## License
 
-This project is licensed under the MIT License - see the the <a href="https://github.com/swash17/Monte-Carlo-Simulation/blob/main/LICENSE">LICENSE.md file</a> for more details.
+This project is licensed under the MIT License - see the the <a href="https://github.com/swash17/Monte-Carlo-Simulation/blob/main/LICENSE">LICENSE.md</a> file for more details.
 
 ## Getting Started
 
